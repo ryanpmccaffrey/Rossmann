@@ -1,3 +1,8 @@
+  # Rossmann Kaggle Competition -- script was used to run extreme gradient boosting model
+  
+  # This was based off Ben Hamner's script from springleaf competition:
+  # https://www.kaggle.com/benhamner/springleaf-marketing-response/xgboost-example
+  
   # set working directory, clear variables and load required packages
   setwd("/Users/ryanmccaffrey/Documents/Data Science/Kaggle/Rossmann Stores")
   rm(list=ls())
